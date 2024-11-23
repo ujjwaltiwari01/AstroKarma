@@ -33,14 +33,15 @@ function Prediction() {
 
           {isWidgetLoaded && (
             <div className="flex justify-center">
-            <iframe
+           <iframe
   id="audio_iframe"
-  src="https://widget.synthflow.ai/widget/v2/1732253574208x293542921899432100/1732253574107x726451925118573000"
+  src="https://widget.synthflow.ai/widget/v2/1732363407222x965847638184466000/1732363407151x536604436919809540"
   allow="microphone"
   width="400"
   height="600"
   style={{ background: 'transparent', border: 'none' }}
 />
+
 
             </div>
           )}
