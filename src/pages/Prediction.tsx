@@ -35,7 +35,7 @@ function Prediction() {
             <div className="flex justify-center">
           <iframe
   id="audio_iframe"
-  src="https://widget.synthflow.ai/widget/v2/1732954676758x302747995081800160/1732954676651x748826923745399900"
+  src="https://widget.synthflow.ai/widget/v2/1733292902381x403394171382398600/1733292902196x881394035824840800"
   allow="microphone"
   width="400"
   height="600"
